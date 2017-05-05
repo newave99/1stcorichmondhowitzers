@@ -3,7 +3,7 @@ name: 1st Company, Richmond Howitzers
 title: 1st Company, Richmond Howitzers
 email: webmaster@1stcorichmondhowitzers.com
 description: "yoyoyo"
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://test.1stcorichmondhowitzers.com
 
 # Build settings
