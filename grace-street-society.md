@@ -4,9 +4,9 @@ title: Grace Street Society
 date: 2012-04-27T23:10:44+00:00
 author: wayne
 layout: page
-guid: http://1stcorichmondhowitzers.com/?page_id=185
+guid: /?page_id=185
 ---
-[<img class="aligncenter size-full wp-image-124" title="DSC04313" src="http://1stcorichmondhowitzers.com/wp-content/uploads/2012/04/DSC04313.jpg" alt="" width="375" height="500" srcset="http://1stcorichmondhowitzers.com/wp-content/uploads/2012/04/DSC04313.jpg 375w, http://1stcorichmondhowitzers.com/wp-content/uploads/2012/04/DSC04313-225x300.jpg 225w" sizes="(max-width: 375px) 100vw, 375px" />](http://1stcorichmondhowitzers.com/wp-content/uploads/2012/04/DSC04313.jpg)
+[<img class="aligncenter size-full wp-image-124" title="DSC04313" src="/wp-content/uploads/2012/04/DSC04313.jpg" alt="" width="375" height="500" srcset="/wp-content/uploads/2012/04/DSC04313.jpg 375w, /wp-content/uploads/2012/04/DSC04313-225x300.jpg 225w" sizes="(max-width: 375px) 100vw, 375px" />](/wp-content/uploads/2012/04/DSC04313.jpg)
 
 The &#8220;**Grace Street Society**&#8221; is the civilian reenactment side of the 1st Company, Richmond Howitzers
 
@@ -20,7 +20,7 @@ Civilian and Women in the Civil War Links
 
 How the Society got its name
 
-[<img class="size-full wp-image-116 alignnone" title="columbia_house_on_grace_st" src="http://1stcorichmondhowitzers.com/wp-content/uploads/2012/04/columbia_house_on_grace_st.jpg" alt="" width="250" height="188" />](http://1stcorichmondhowitzers.com/wp-content/uploads/2012/04/columbia_house_on_grace_st.jpg)
+[<img class="size-full wp-image-116 alignnone" title="columbia_house_on_grace_st" src="/wp-content/uploads/2012/04/columbia_house_on_grace_st.jpg" alt="" width="250" height="188" />](/wp-content/uploads/2012/04/columbia_house_on_grace_st.jpg)
 
 Columbia, circa 1817
 
