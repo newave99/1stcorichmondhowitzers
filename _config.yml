@@ -1,10 +1,10 @@
 # Site settings
 name: 1st Company, Richmond Howitzers
 title: 1st Company, Richmond Howitzers
-email: webmaster@neherp.com
+email: webmaster@1stcorichmondhowitzers.com
 description: "yoyoyo"
-baseurl: "/1stcorichmondhowitzers/" # the subpath of your site, e.g. /blog/
-url: http://1stcorichmondhowitzers.com
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: http://test.1stcorichmondhowitzers.com
 
 # Build settings
 markdown: kramdown
