@@ -1,0 +1,436 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<link rel="File-List" href="RHsked2007_files/filelist.xml">
+<title>1st Company Richmond Howitzers schedule for 2007</title>
+<!--[if !mso]>
+<style>
+v\:*         { behavior: url(#default#VML) }
+o\:*         { behavior: url(#default#VML) }
+.shape       { behavior: url(#default#VML) }
+table.MsoTableGrid
+	{border:1.0pt solid windowtext;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	}
+</style>
+<![endif]--><!--[if gte mso 9]>
+<xml><o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]-->
+</head>
+
+<body>
+
+<!--[if gte vml 1]><v:group id="_x0000_s1025"
+ editas="canvas" style='position:absolute;margin-left:9.75pt;margin-top:-6pt;
+ width:558pt;height:99pt;z-index:-1' coordorigin="540,360" coordsize="11160,1980"
+ wrapcoords="987 0 987 15545 4006 15545 4006 0 987 0">
+ <o:lock v:ext="edit" aspectratio="t"/>
+ <v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75"
+  o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+  <v:stroke joinstyle="miter"/>
+  <v:formulas>
+   <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+   <v:f eqn="sum @0 1 0"/>
+   <v:f eqn="sum 0 0 @1"/>
+   <v:f eqn="prod @2 1 2"/>
+   <v:f eqn="prod @3 21600 pixelWidth"/>
+   <v:f eqn="prod @3 21600 pixelHeight"/>
+   <v:f eqn="sum @0 0 1"/>
+   <v:f eqn="prod @6 1 2"/>
+   <v:f eqn="prod @7 21600 pixelWidth"/>
+   <v:f eqn="sum @8 21600 0"/>
+   <v:f eqn="prod @7 21600 pixelHeight"/>
+   <v:f eqn="sum @10 21600 0"/>
+  </v:formulas>
+  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+  <o:lock v:ext="edit" aspectratio="t"/>
+ </v:shapetype><v:shape id="_x0000_s1026" type="#_x0000_t75" style='position:absolute;
+  left:540;top:360;width:11160;height:1980' o:preferrelative="f">
+  <v:fill o:detectmouseclick="t"/>
+  <v:path o:extrusionok="t" o:connecttype="none"/>
+  <o:lock v:ext="edit" text="t"/>
+ </v:shape><v:rect id="_x0000_s1027" style='position:absolute;left:2764;top:802;
+  width:8756;height:1178;v-text-anchor:top-baseline' filled="f" fillcolor="#bbe0e3"
+  stroked="f">
+  <v:textbox style='mso-next-textbox:#_x0000_s1027' inset="1.75261mm,.87631mm,1.75261mm,.87631mm">
+<![if !mso]>
+<table cellpadding="0" cellspacing="0" width="100%" id="table1">
+	<tr>
+		<td><![endif]>
+		<div>
+			<p class="MsoNormal" style="mso-layout-grid-align: none; text-autospace: none">
+			<b><i>
+			<span style="font-size: 26.0pt; font-family: Arial; color: black">1<sup>st</sup> 
+			Company </span></i></b>
+			<st1:place w:st="on">
+			<st1:City w:st="on"><b><i>
+			<span style="font-size: 26.0pt; font-family: Arial; color: red">
+			Richmond</span></i></b></st1:City></st1:place><b><i><span style="font-size: 26.0pt; font-family: Arial; color: red"> 
+			Howitzers<o:p></o:p></span></i></b></div>
+		<![if !mso]></td>
+	</tr>
+</table>
+<![endif]></v:textbox>
+ </v:rect><v:shape id="_x0000_s1028" type="#_x0000_t75" style='position:absolute;
+  left:1080;top:360;width:1519;height:1440'>
+  <v:imagedata src="RHsked2007_files/image001.jpg" o:title="Shield-cannon-LOGO2-1"/>
+ </v:shape></v:group><![endif]--><![if !vml]><span style='mso-ignore:vglayout;
+position:absolute;z-index:-1;left:23px;top:7px;width:744px;height:132px'><img
+width=744 height=132 src="RHsked2007_files/image002.gif" v:shapes="_x0000_s1025 _x0000_s1026 _x0000_s1027 _x0000_s1028"></span><![endif]><p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<!--[if gte vml 1]><v:shapetype
+ id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe">
+ <v:stroke joinstyle="miter"/>
+ <v:path gradientshapeok="t" o:connecttype="rect"/>
+</v:shapetype><v:shape id="_x0000_s1029" type="#_x0000_t202" style='position:absolute;
+ margin-left:116.25pt;margin-top:-10.5pt;width:336.75pt;height:42.75pt;
+ z-index:1;mso-wrap-style:none' wrapcoords="-45 0 -45 21185 21600 21185 21600 0 -45 0"
+ stroked="f">
+ <v:textbox style='mso-fit-shape-to-text:t'>
+<![if !mso]>
+<table cellpadding="0" cellspacing="0" width="100%" id="table2">
+	<tr>
+		<td><![endif]>
+		<div>
+			<p class="MsoNormal" align="center" style="text-align: center">
+			<b style="mso-bidi-font-weight: normal">
+			<i style="mso-bidi-font-style: normal">
+			<span style="font-size: 26.0pt; color: blue">
+			<v:shapetype id="_x0000_t136" coordsize="21600,21600" o:spt="136" adj="10800" path="m@7,l@8,m@5,21600l@6,21600e">
+			<v:formulas>
+			<v:f eqn="sum #0 0 10800" />
+			<v:f eqn="prod #0 2 1" />
+			<v:f eqn="sum 21600 0 @1" />
+			<v:f eqn="sum 0 0 @2" />
+			<v:f eqn="sum 21600 0 @3" />
+			<v:f eqn="if @0 @3 0" />
+			<v:f eqn="if @0 21600 @1" />
+			<v:f eqn="if @0 0 @2" />
+			<v:f eqn="if @0 @4 21600" />
+			<v:f eqn="mid @5 @6" />
+			<v:f eqn="mid @8 @5" />
+			<v:f eqn="mid @7 @8" />
+			<v:f eqn="mid @6 @7" />
+			<v:f eqn="sum @6 0 @5" /></v:formulas>
+			<v:path textpathok="t" o:connecttype="custom" o:connectlocs="@9,0;@10,10800;@11,21600;@12,10800" o:connectangles="270,180,90,0" />
+			<v:textpath on="t" fitshape="t" />
+			<v:handles>
+			<v:h position="#0,bottomRight" xrange="6629,14971" /></v:handles>
+			<o:lock v:ext="edit" text="t" shapetype="t" /></v:shapetype>
+			<v:shape id="_x0000_i1025" type="#_x0000_t136" style="width: 299.25pt; height: 31.5pt" fillcolor="#9400ed" strokecolor="#eaeaea" strokeweight="1pt">
+			<v:fill color2="blue" angle="-90" colors="0 #a603ab;13763f #0819fb;22938f #1a8d48;34079f yellow;47841f #ee3f17;57672f #e81766;1 #a603ab" method="none" type="gradient" />
+			<v:shadow on="t" type="perspective" color="silver" opacity="52429f" origin="-.5,.5" matrix=",46340f,,.5,,-4768371582e-16" />
+			<v:textpath style="font-family: Arial Black; font-weight: bold; font-style: italic; v-text-kern: t" trim="t" fitpath="t" string="2007 Campaign Season" />
+			</v:shape>
+			<o:p>2007 Campaign Season</o:p></span></i></b></div>
+		<![if !mso]></td>
+	</tr>
+</table>
+<![endif]></v:textbox>
+</v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+absolute;z-index:1;left:165px;top:147px;width:453px;height:61px'><img
+width=453 height=61 src="RHsked2007_files/image003.gif"
+alt="Text Box: 2007 Campaign Season&#13;&#10;" v:shapes="_x0000_s1029"></span><![endif]><p>&nbsp;</p>
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: medium none; margin-left: .5in" id="table3">
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center"><b>
+		<span style="font-size: 14.0pt; color: blue">MONTH</span></b></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center"><b>
+		<span style="font-size: 14.0pt; color: blue">DAY</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center"><b>
+		<span style="font-size: 14.0pt; color: blue">EVENT</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center"><b>
+		<span style="font-size: 14.0pt; color: blue">LOCATION</span></b></td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center"><b>
+		<span style="font-size: 14.0pt; color: blue">TYPE</span></b></td>
+	</tr>
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center"><b>
+		<span style="font-size: 14.0pt; color: black">March</span></b></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b>3</b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b>Swap meet</b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b>Uxbridge, MA</b></td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b>FYI</b></td>
+	</tr>
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center"><b>
+		<span style="font-size: 14.0pt; color: black">&nbsp;</span></b></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: green">17</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: green">St Patrick’s&nbsp; parade</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: green">So. Boston, MA</span></b></td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: green">RH</span></b></td>
+	</tr>
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center"><b>
+		<span style="font-size: 14.0pt; color: black">&nbsp;</span></b></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">&nbsp;</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">&nbsp;</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">&nbsp;</span></b></td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">&nbsp;</span></b></td>
+	</tr>
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center"><b>
+		<span style="font-size: 14.0pt; color: black">May</span></b></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">5-6</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">CMD/Drill weekend</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">Lincoln, RI</span></b></td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">LG</span></b></td>
+	</tr>
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center">
+		<span style="font-size: 14.0pt">&nbsp;</span></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal">&nbsp;</td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal">&nbsp;</td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal">&nbsp;</td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal">&nbsp;</td>
+	</tr>
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center"><b>
+		<span style="font-size: 14.0pt; color: black">June</span></b></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">2-3</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">Amesbury</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">Amesbury, MA</span></b></td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">LG</span></b></td>
+	</tr>
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center">
+		<span style="font-size: 14.0pt">&nbsp;</span></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">16-17</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">Borderland</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">Easton. MA</span></b></td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">LG</span></b></td>
+	</tr>
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p align="center" style="text-align: center"><b>
+		<span style="font-size: 14.0pt; color: black">&nbsp;</span></b></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">&nbsp;</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">&nbsp;</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">&nbsp;</span></b></td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">&nbsp;</span></b></td>
+	</tr>
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p align="center" style="text-align: center"><b>
+		<span style="font-size: 14.0pt; color: black">July</span></b></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">14-15</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">Groton</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">Groton, MA</span></b></td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">LG</span></b></td>
+	</tr>
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center">
+		<span style="font-size: 14.0pt">&nbsp;</span></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal">&nbsp;</td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal">&nbsp;</td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal">&nbsp;</td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal">&nbsp;</td>
+	</tr>
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center"><b>
+		<span style="font-size: 14.0pt; color: black">August</span></b></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">18-19</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">Woodbury</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">Woodbury, CT</span></b></td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">LG</span></b></td>
+	</tr>
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center">
+		<span style="font-size: 14.0pt">&nbsp;</span></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal">&nbsp;</td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal">&nbsp;</td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal">&nbsp;</td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal">&nbsp;</td>
+	</tr>
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center"><b>
+		<span style="font-size: 14.0pt; color: black">September</span></b></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: green">8-9</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: green">Fort Adams</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: green">Newport</span><span style="color: green">, 
+		RI</span></b></td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: green">RH</span></b></td>
+	</tr>
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center">
+		<span style="font-size: 14.0pt; color: red">&nbsp;</span></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">15-16</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">Lincoln</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">Lincoln, RI</span></b></td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">LG</span></b></td>
+	</tr>
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center">
+		<span style="font-size: 14.0pt">&nbsp;</span></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal">&nbsp;</td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal">&nbsp;</td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal">&nbsp;</td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal">&nbsp;</td>
+	</tr>
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center"><b>
+		<span style="font-size: 14.0pt; color: black">October</span></b></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">6-7</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">Winchendon</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">Winchendon, MA</span></b></td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">FYI</span></b></td>
+	</tr>
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center">
+		<span style="font-size: 14.0pt">&nbsp;</span></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: blue">20-21</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: blue">Cedar Creek</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: blue">Middletown, VA</span></b></td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: blue">ANV</span></b></td>
+	</tr>
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center">
+		<span style="font-size: 14.0pt">&nbsp;</span></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal">&nbsp;</td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal">&nbsp;</td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal">&nbsp;</td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal">&nbsp;</td>
+	</tr>
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center"><b>
+		<span style="font-size: 14.0pt; color: black">November</span></b></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">TBD</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">LG’s Meeting </span>
+		</b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">Sturbridge, MA </span>
+		</b></td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: red">LG</span></b></td>
+	</tr>
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center">
+		<span style="font-size: 14.0pt">&nbsp;</span></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: blue">TBD</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: blue">ANV Convention</span><span style="color: white">&lt;</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: blue">Fredericksburg,</span><span style="color: white">
+		</span><span style="color: blue">VA</span></b></td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: blue">ANV</span></b></td>
+	</tr>
+	<tr style="height: .3in">
+		<td width="115" style="width: 85.95pt; height: .3in; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center"><b>
+		<span style="font-size: 14.0pt">&nbsp;</span></b></td>
+		<td width="65" style="width: 49.05pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: green">17-18</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: green">Remembrance Day</span></b></td>
+		<td width="156" style="width: 117.0pt; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: green">Gettysburg, PA</span></b></td>
+		<td width="72" style="width: .75in; height: .3in; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal"><b><span style="color: green">RH</span></b></td>
+	</tr>
+</table>
+
+</body>
+
+</html>

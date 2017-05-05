@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+{% assign next_show = site.data.general.next_show | date: '%Y%m%d' %}
+{% assign previous_show = site.data.general.previous_show | date: '%Y%m%d' %}
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+    {% include leftnav.html %}
+    	<div class="col-md-8 blog-main">
+      		{{ content }}
+	    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

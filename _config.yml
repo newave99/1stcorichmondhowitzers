@@ -1,0 +1,14 @@
+# Site settings
+name: 1st Company, Richmond Howitzers
+title: 1st Company, Richmond Howitzers
+email: webmaster@neherp.com
+description: "yoyoyo"
+baseurl: "/1stcorichmondhowitzers/" # the subpath of your site, e.g. /blog/
+url: http://1stcorichmondhowitzers.com
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+exclude: [vendor]
+# Put this on a different port so I can have expo and this site running at the same time
+port: 4001

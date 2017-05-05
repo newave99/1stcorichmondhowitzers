@@ -1,0 +1,37 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+.blog-main {
+  padding: 3rem 1.5rem;
+}
+
+.left-nav {
+  padding: 3rem 1.5rem;
+}
+
+/*
+ * Footer
+ */
+
+.blog-footer {
+  padding: 2.5rem 0;
+  color: #999;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: .05rem solid #e5e5e5;
+}
+.blog-footer p:last-child {
+  margin-bottom: 0;
+}
+
+$border-color                 : #000;
+
+$table-border-color           : $border-color;
+$table-border                 : 1px solid $table-border-color;
+
+table, th, td {
+   border: $table-border;
+   padding: 5px;
+}
