@@ -5,5 +5,5 @@ redirect_from:
 ---
 
 
-Welcome
+Welcome to the 1st Co Richmond Howitzers
 =======
