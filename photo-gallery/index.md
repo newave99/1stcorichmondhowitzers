@@ -1,9 +1,10 @@
 ---
 layout: default
-redirect_from: 
- - index.php/
+redirect_from:
+  - index.php/
+published: true
 ---
 
 
-Welcome
+Photo Gallery Coming back soon
 =======
